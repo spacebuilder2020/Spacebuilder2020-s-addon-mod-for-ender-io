@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rea",
+  "name": "Spacebuilder2020's Enderio Addon Mod",
+  "description": "Random Enderio Addons",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Spacebuilder2020"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [EnderIO, IC2]
+}
+]

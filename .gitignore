@@ -1,5 +1,24 @@
 .gradle
-build/
+build
+.settings
+asm
+bin
+config
+crash-reports
+eclipse
+libs
+logs
+mods
+resourcepacks
+saves
+screenshots
+
+eula.txt
+options.txt
+server.properties
+usernamecache.json
+gradlew
+gradlew.bat
 
 # Ignore Gradle GUI config
 gradle-app.setting

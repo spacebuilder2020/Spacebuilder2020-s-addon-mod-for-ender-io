@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Spacebuilder2020-Core"/>
+	<classpathentry kind="lib" path="C:/Users/alexa/workspace/Spacebuilder2020-enderio-addon-mod/libs/industrialcraft-2-2.2.790-experimental-dev.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alexa/workspace/Spacebuilder2020-enderio-addon-mod/libs/EnderCore-1.7.10-0.2.0.0_beta-dev.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alexa/workspace/Spacebuilder2020-enderio-addon-mod/libs/EnderIO-1.7.10-2.3.0.0_beta-dev.jar"/>
+	<classpathentry kind="src" path="/forge_base_1.7.10"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
