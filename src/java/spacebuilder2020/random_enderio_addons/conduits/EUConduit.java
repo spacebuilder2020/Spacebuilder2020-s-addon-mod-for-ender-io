@@ -251,9 +251,10 @@ public class EUConduit extends AbstractConduit implements IEUConduit {
 		return null;
 	}
 	
-	public static Class<? extends AbstractConduitNetwork> getNetworkClass()
+	@Override
+	public AbstractConduitNetwork<?, ?> createNetworkForType()
 	{
-		return EUConduitNetwork.class;		
+		return new EUConduitNetwork();
 	}
 
 	boolean isFull()

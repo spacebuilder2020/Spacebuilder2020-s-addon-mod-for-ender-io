@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "0.1.0"
+version = "0.1.1"
 group= "spacebuilder2020.random_enderio_addons" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "random_enderio_addons"
+archivesBaseName = "spacebuilder2020's_enderio_addons"
 
 minecraft {
     version = "1.7.10-10.13.4.1517-1.7.10"

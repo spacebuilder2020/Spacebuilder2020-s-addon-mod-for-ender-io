@@ -2,7 +2,7 @@
 {
   "modid": "rea",
   "name": "Spacebuilder2020's Enderio Addon Mod",
-  "description": "Random Enderio Addons",
+  "description": "Spacebuilder2020's Enderio Addon Mod",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
