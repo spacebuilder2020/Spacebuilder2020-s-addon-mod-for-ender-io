@@ -1,3 +1,6 @@
+# EDIT:  On hold indefinatly since Gregtech Unnoficial added RF support to GT cables, and IC2 cables are indefinalty broken.
+(You can transfer Extreme Voltage with a tin cable with no loss)
+
 # Spacebuilder2020-s-addon-mod-for-ender-io
 This mod consists of random addons to enderio that may not be related to each other.
 
